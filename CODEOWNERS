@@ -1,6 +1,6 @@
 # This file is described here:  https://help.github.com/en/articles/about-code-owners
 
 # Global Owners: These members are Core Maintainers of cnab-go
-CODEOWNERS @technosophos @vdice @radu-matei @jeremyrickard @carolynvs @glyn @silvin-lubecki @jlegrone
-LICENSE    @technosophos @vdice @radu-matei @jeremyrickard @carolynvs @glyn @silvin-lubecki @jlegrone
-NOTICE     @technosophos @vdice @radu-matei @jeremyrickard @carolynvs @glyn @silvin-lubecki @jlegrone
+CODEOWNERS @technosophos @vdice @radu-matei @jeremyrickard @carolynvs @silvin-lubecki @jlegrone
+LICENSE    @technosophos @vdice @radu-matei @jeremyrickard @carolynvs @silvin-lubecki @jlegrone
+NOTICE     @technosophos @vdice @radu-matei @jeremyrickard @carolynvs @silvin-lubecki @jlegrone
